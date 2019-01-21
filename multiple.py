@@ -1,3 +1,4 @@
+
 # Python profram to check if n is a multiple of 13 
   
 # Function to check if n is a multiple of 13 
@@ -35,7 +36,7 @@ def isMultipleOf13(n):
 # Program to test function isMultipleOf3  
 num = 26
 if (isMultipleOf13(num)):  
-    print(num, 'is multiple of 13') 
+    print('no') 
 else: 
     print('yes') 
   
